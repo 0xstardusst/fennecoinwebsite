@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fennecoin - The Future of Memecoins</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #fdecc8, #f9d288);
+            color: #4d331f;
+        }
+        header {
+            background: #f9b25e;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #4d331f;
+        }
+        header p {
+            margin: 0;
+            font-size: 1.2rem;
+            color: #4d331f;
+        }
+        .hero {
+            text-align: center;
+            padding: 50px 20px;
+        }
+        .hero img {
+            max-width: 200px;
+            border-radius: 50%;
+        }
+        .hero h2 {
+            font-size: 2rem;
+            margin: 20px 0;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 1rem;
+            color: white;
+            background: #e67f22;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .cta-button:hover {
+            background: #cf6d1d;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+            background: #fff7e6;
+        }
+        .feature {
+            flex: 1 1 300px;
+            margin: 20px;
+            padding: 20px;
+            background: #fdecc8;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .feature h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+        .feature p {
+            font-size: 1rem;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #f9b25e;
+            color: #4d331f;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Fennecoin</h1>
+        <p>The cutest and most innovative cryptocurrency!</p>
+    </header>
+    <div class="hero">
+        <img src="fennecoin-logo.png" alt="Fennecoin Logo">
+        <h2>Why Fennecoin?</h2>
+        <p>Fennecoin combines the charm of the fennec fox with cutting-edge blockchain technology.</p>
+        <a href="#" class="cta-button">Get Started</a>
+    </div>
+    <div class="features">
+        <div class="feature">
+            <h3>Decentralized</h3>
+            <p>Built on a secure and transparent blockchain.</p>
+        </div>
+        <div class="feature">
+            <h3>Community Driven</h3>
+            <p>Powered by a passionate and inclusive community.</p>
+        </div>
+        <div class="feature">
+            <h3>Eco-Friendly</h3>
+            <p>Optimized for energy-efficient transactions.</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Fennecoin. All rights reserved.</p>
+    </footer>
+</body>
+</html>
